@@ -1,0 +1,27 @@
+[
+  {
+    "app": "Grabadora Pro",
+    "permiso": "Micrófono",
+    "dias_sin_uso": 31
+  },
+  {
+    "app": "Linterna Plus",
+    "permiso": "Ubicación",
+    "dias_sin_uso": 75
+  },
+  {
+    "app": "WhatsApp",
+    "permiso": "Cámara",
+    "dias_sin_uso": 0
+  },
+  {
+    "app": "Maps",
+    "permiso": "Ubicación",
+    "dias_sin_uso": 2
+  },
+  {
+    "app": "Calculadora",
+    "permiso": "Almacenamiento",
+    "dias_sin_uso": 200
+  }
+]

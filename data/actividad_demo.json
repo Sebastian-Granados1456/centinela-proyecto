@@ -1,0 +1,124 @@
+{
+  "accesos": [
+    {
+      "dias_atras": 26,
+      "hora": 8,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 24,
+      "hora": 19,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 22,
+      "hora": 9,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 20,
+      "hora": 13,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 18,
+      "hora": 21,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 16,
+      "hora": 7,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 14,
+      "hora": 12,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 12,
+      "hora": 18,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 10,
+      "hora": 10,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 8,
+      "hora": 20,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 5,
+      "hora": 9,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 3,
+      "hora": 17,
+      "ciudad": "Cali",
+      "dispositivo": "Android - Moto G"
+    },
+    {
+      "dias_atras": 1,
+      "hora": 15,
+      "ciudad": "Bogotá",
+      "dispositivo": "Windows - Chrome"
+    }
+  ],
+  "movimientos": [
+    {
+      "dias_atras": 20,
+      "comercio": "Supermercado La 14",
+      "monto": 85000
+    },
+    {
+      "dias_atras": 17,
+      "comercio": "Cine Colombia",
+      "monto": 32000
+    },
+    {
+      "dias_atras": 14,
+      "comercio": "Rappi",
+      "monto": 46000
+    },
+    {
+      "dias_atras": 11,
+      "comercio": "Farmacia",
+      "monto": 28000
+    },
+    {
+      "dias_atras": 9,
+      "comercio": "Supermercado La 14",
+      "monto": 92000
+    },
+    {
+      "dias_atras": 6,
+      "comercio": "Rappi",
+      "monto": 39000
+    },
+    {
+      "dias_atras": 4,
+      "comercio": "TiendaOnline XYZ",
+      "monto": 950000
+    },
+    {
+      "dias_atras": 2,
+      "comercio": "Cafetería",
+      "monto": 12000
+    }
+  ]
+}
