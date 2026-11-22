@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "TiendaFit (simulada)",
+    "dias_atras": 7,
+    "datos": ["Correos", "Contraseñas", "Nombres"],
+    "correos": ["usuario@example.com", "ana.perez@example.com"],
+    "dominios": []
+  },
+  {
+    "nombre": "ForoGamer (simulada)",
+    "dias_atras": 400,
+    "datos": ["Correos", "Nombres de usuario", "Direcciones IP"],
+    "correos": ["jugador99@example.com"],
+    "dominios": ["correo-viejo.com"]
+  }
+]
